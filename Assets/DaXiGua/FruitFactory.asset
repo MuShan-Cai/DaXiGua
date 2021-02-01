@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 991c40414e634b849a35ddfa8f242ed9, type: 3}
+  m_Name: FruitFactory
+  m_EditorClassIdentifier: 
+  fruitPrefabs:
+  - {fileID: 2936162296518140686, guid: 915fd092d2f7ee546b3aad6592954d7d, type: 3}
+  - {fileID: 4660578358737674350, guid: 0f918f788dc16af478f765adbdc080c1, type: 3}
+  - {fileID: 9073423821200092380, guid: 5438018daa3434d4da250d7b495e0020, type: 3}
+  - {fileID: 3798250255632244021, guid: 614bce7bf8e2e564c8d9522343072c9a, type: 3}
+  - {fileID: 5644013028361037873, guid: dda9dafcbe5011b4b8310047edd6b0f2, type: 3}
+  - {fileID: 4425966443225420146, guid: fbaaf1bca32f4704f8af8abfca4cf2c7, type: 3}
+  - {fileID: 5665385707774253253, guid: 0cd655eef7c53a1499a32a98507b2582, type: 3}
+  - {fileID: 6444254794341166815, guid: b1b111c5b141daf4892b2d59cbc79ff5, type: 3}
+  - {fileID: 3994841340781593035, guid: 84fb8d0ddaf4e664ca6b0b57276ec1e2, type: 3}
+  - {fileID: 2364252029739761852, guid: 543200ec53a92c8429165af5e29ebe53, type: 3}
+  - {fileID: 8125517146964512365, guid: 41c0b459c3c93884ebc5a20eb23d5e50, type: 3}
